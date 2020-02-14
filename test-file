@@ -1,6 +1,5 @@
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/vidyasagards/test.git
-git push -u origin master
-test 1
+<html>
+<body>
+this is second it
+</body>
+</html>
